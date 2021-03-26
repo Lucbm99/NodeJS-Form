@@ -30,8 +30,7 @@ WAMP: https://www.wampserver.com/en/
 ## 1 - Primeiro faça o clone desse repositório com o comando: git clone https://github.com/Lucbm99/NodeJS-Form.git, com o prompt de comando ou o Git Bash, em qualquer pasta de seu computador.
 
 ## 2 - Após isso, deverá ser digitado no terminal na pasta de seu projeto, o comando npm install, acompanhado de algumas dependências: 
-
-# npm install express sequelize body-parser express-handlebars -- para a instalação de todas ser feita uma única vez. 
+npm install express sequelize body-parser express-handlebars -- para a instalação de todas ser feita uma única vez. 
 
 ## 3 - Depois disso, rodar o comando npm install -g nodemon, para o servidor de sua aplicação ser iniciado.
 
