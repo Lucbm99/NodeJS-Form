@@ -1,0 +1,11 @@
+<h3>Lista de times</h3>
+<hr>
+<a href="/addteams">Adicionar time</a>
+<hr>
+{{#each team}} 
+    <h3>Time: {{dataValues.time}}</h3>
+    <h3>Cidade: {{dataValues.cidade}}</h3>
+    <h3>Estado: {{dataValues.estado}}</h3>
+    <a href="/delete/{{dataValues.id}}"><button>Excluir</button></a>
+    <hr>
+{{/each}}
