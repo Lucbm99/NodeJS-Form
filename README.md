@@ -42,6 +42,7 @@ npm install express sequelize body-parser express-handlebars -- para a instalaç
 ## 📦 Status da aplicação
 
 🚧  Finalizado 🚧
+
 Vídeo demo: https://youtu.be/gnutMaj3Dz0
 
 
