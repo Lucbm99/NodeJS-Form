@@ -23,7 +23,7 @@ MySQL: https://dev.mysql.com/downloads/workbench/
 
 XAMPP: https://www.apachefriends.org/pt_br/index.html
 
-WAMP: https://www.wampserver.com/en/
+WAMP: https://www.wampserver.com/en
 
 ### 🔧 Como rodar o projeto? 
 
