@@ -19,7 +19,7 @@ NodeJS: https://nodejs.org/en/
 
 Npm: https://www.npmjs.com/
 
-MySQL: https://dev.mysql.com/downloads/workbench/
+MySQL: https://dev.mysql.com/downloads/workbench
 
 XAMPP: https://www.apachefriends.org/pt_br/index.html
 
