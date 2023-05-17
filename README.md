@@ -17,7 +17,7 @@ Sublime Text: https://www.sublimetext.com/
 
 NodeJS: https://nodejs.org/en/
 
-Npm: https://www.npmjs.com/
+Npm: https://www.npmjs.com
 
 MySQL: https://dev.mysql.com/downloads/workbench
 
@@ -59,11 +59,6 @@ Consulte o arquivo LICENSE.md, para maiores detalhes.
 
 ## ✒️ Autores
 Formulário feito por mim - [Lucbm99](https://github.com/Lucbm99)
-
-
-## 🎁 Agradecimentos
-Formulário feito para estudos, que aprendi muito bem. Obrigado a todos e a Deus pela oportunidade!
-
 
 ---
 ⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
